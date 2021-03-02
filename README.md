@@ -1,14 +1,6 @@
-### Olá! 🤘
-
-Me chamo Lucas (🇧🇷) e sou desenvolvedor web front-end. Criar soluções (encantadoras) através da engenharia sempre fez meus olhos brilharem, isso contribuiu para que eu me especializasse em áreas como programação e UI/UX.
-
-Fique a vontade para olhar meus respositórios, principalmente meu portfólio (https://lucasmacedoportfolio.netlify.app). ⚡
-
-Se quiser entrar em contato comigo 💬, minhas redes sociais estão aqui embaixo. 👇
-
-(https://www.linkedin.com/in/lucsmac/) 📮
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<h3 align="left">Olá! 🤘</h3>
 
 <p align="left">
   Me chamo Lucas (🇧🇷) e sou desenvolvedor web <strong>front-end</strong>. Criar soluções (encantadoras) através da engenharia sempre fez meus olhos brilharem, isso contribuiu para que eu me especializasse em áreas como programação e UI/UX.
