@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Vue, Next, Nuxt, Node, Typescript, Ruby on Rails, UI/UX Design.</strong>
+  🚀 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Vue, Next, Nuxt, Node, Typescript, Ruby on Rails, UI/UX Design.</strong>
 </p>
 
 <p align="left">
