@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PhotoShop, Illustrator, Figma, GitHub.</strong>
+  🛠 Ferramentas: <strong>VSCode, PhotoShop, Illustrator, Figma, GitHub.</strong>
 </p>
 
 <p align="left">
