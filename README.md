@@ -3,7 +3,7 @@
 <h3 align="left">Olá! 🤘</h3>
 
 <p align="left">
-  Me chamo Lucas (🇧🇷) e sou desenvolvedor web <strong>front-end</strong>. Criar soluções (encantadoras) através da engenharia sempre fez meus olhos brilharem, isso contribuiu para que eu me especializasse em áreas como programação e UI/UX.
+  Me chamo Lucas e sou desenvolvedor web <strong>front-end</strong>. Criar soluções (encantadoras) através da engenharia sempre fez meus olhos brilharem, isso contribuiu para que eu me especializasse em áreas como programação e UI/UX.
 </p>
 
 <p align="left">
