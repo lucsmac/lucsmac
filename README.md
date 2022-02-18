@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>Photoshop, Illustrator, XD, Figma, GitHub.</strong>
+  🛠 Ferramentas: <strong>Photoshop, Illustrator, XD, Figma.</strong>
 </p>
 
 <p align="left">
